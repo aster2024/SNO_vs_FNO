@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bf970811-a1d0-45a5-a73a-332626da3990" name="xtraa100">
+        <fileTransfer rootFolder="/home/Aster/git/SNO_vs_FNO" accessType="SFTP" host="xtraa100" port="22" sshConfigId="2b97745b-3c3c-44cb-abf9-75f6fd42026d" sshConfig="xtraa100" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

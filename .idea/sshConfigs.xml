@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" id="050ed5f7-0521-48ac-bffa-212ace178f05" port="22" customName="xtraa100" nameFormat="CUSTOM" useOpenSSHConfig="true">
+        <option name="customName" value="xtraa100" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
