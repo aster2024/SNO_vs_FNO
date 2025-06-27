@@ -1,4 +1,4 @@
-# Spectral vs. Fourier Neural Operators in Parametric PDE Modeling
+# Spectral vs. Fourier Neural Operators in Parametric PDE Modeling: Analysis and Experiments
 
 <p align="center">
   📄 <a href="https://aster2024.github.io/assets/pdf/SNO_vs_FNO.pdf" target="_blank">Paper</a> &nbsp;
@@ -57,3 +57,18 @@ This will generate plots showing the band-widening effect of activation function
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Citation
+
+If you find this work useful in your research, please consider citing our paper:
+
+```bibtex
+@article{guo2025two,
+  author       = {Guo, Jizhou},
+  title        = {{Spectral vs. Fourier Neural Operators in Parametric PDE Modeling: Analysis and Experiments}},
+  year         = {2025},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.15757863},
+  url          = {https://doi.org/10.5281/zenodo.15757863}
+}
+```
