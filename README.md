@@ -1,5 +1,9 @@
 # Spectral vs. Fourier Neural Operators in Parametric PDE Modeling
 
+<p align="center">
+  📄 <a href="https://aster2024.github.io/assets/pdf/SNO_vs_FNO.pdf" target="_blank">Paper</a> &nbsp;
+</p>
+
 This repository contains the official source code for the paper **"Spectral vs. Fourier Neural Operators in Parametric PDE Modeling: Analysis and Experiments"**.
 
 This project conducts a systematic comparison between Fourier Neural Operators (FNOs) and Spectral Neural Operators (SNOs) for learning solution operators of parametric PDEs.
